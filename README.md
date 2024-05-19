@@ -25,26 +25,15 @@ Estadísticas de GitHub
 </h1>
 
 <hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,bash,html,vscode,github,git,latex" />
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPjxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjE0IiBmaWxsPSIjZmZmIi8+PHBhdGggZmlsbD0iIzNlNWJhOSIgZD0iTTI3LjAxNiAyNC42NDFhMTQgMTQgMCAwIDAtMTUuOC0yMS44YzUuNjg0IDIuOTgxIDEzLjE5NyAxMi43MDggMTUuOCAyMS44Ii8+PHBhdGggZmlsbD0iIzlmMWQyMCIgZD0iTTEzLjk5NSAxMC45M2EyNC4zIDI0LjMgMCAwIDAtNy4yMi01LjQ2YTE0IDE0IDAgMCAwLTEuMzEyIDE5Ljc0N2EzOS42IDM5LjYgMCAwIDEgOC41MzItMTQuMjg3bTIuNTggMy4xN0EzMi42NSAzMi42NSAwIDAgMCA5LjQzIDI4LjM2NWExNC4wMiAxNC4wMiAwIDAgMCAxMy4zLS4wODlBMzguNiAzOC42IDAgMCAwIDE2LjU3NSAxNC4xIi8+PC9zdmc+" /> <!-- Ícono de Racket -->
-    <img src="https://skillicons.dev/icons?i=python,julia,java" /><br>
-</div>
-
-
-<br/>
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <br/>
+        <div align="center">
+            <img src="https://skillicons.dev/icons?i=linux,bash,html,vscode,github,git,latex" />
+            <span>&nbsp;</span> <!-- Espacio en blanco -->
+            <img src="https://skillicons.dev/icons?i=python,julia,java" /><br>
+        </div>
+    <br/>
 <hr/>
 
 <!-- Lenguajes que se han utilizado -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRM23&hide_progress=true)
-
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,vscode,github,git,latex" />
-   
-    <img src="URL_DEL_ICONO_DE_JUPYTER" /> <!-- Agrega aquí la URL del ícono de Jupyter Notebook -->
-    <img src="https://skillicons.dev/icons?i=python,julia,java" /><br>
-</div>
