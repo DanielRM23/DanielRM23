@@ -25,18 +25,18 @@ Estadísticas de GitHub
 </h1>
 
 <hr/>
-    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-    <br/>
-        <div align="center">
-            <img src="https://skillicons.dev/icons?i=linux,bash,html,vscode,github,git,latex" style="pointer-events: none;" />
-            <span>&nbsp;</span> <!-- Espacio en blanco -->
-            <img src="https://skillicons.dev/icons?i=python,julia,java" style="pointer-events: none;" /><br>
-        </div>
-    <br/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=linux,bash,html,vscode,github,git,latex" style="pointer-events: none;" />
+    <span>&nbsp;</span> <!-- Espacio en blanco -->
+    <img src="https://skillicons.dev/icons?i=python,julia,java" style="pointer-events: none;" /><br>
+</div>
+<br/>
 <hr/>
 
 
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRM23&hide=HTML&layout=compact&theme=onedark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRM23&hide=HTML&layout=compact&theme=onedark&hide_progress=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
