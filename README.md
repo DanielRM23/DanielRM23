@@ -35,7 +35,6 @@ Estadísticas de GitHub
     <br/>
 <hr/>
 
-<center>
+
 <!-- ### Lenguajes que se han utilizado -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRM23&hide_progress=true&theme=onedark)
-</center>
