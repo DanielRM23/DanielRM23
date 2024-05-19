@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
+Estadísticas de GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRM23&show_icons=true&theme=radical) 
+-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRM23&show_icons=true&theme=radical)
+<!-- Lenguajes que se han utilizado -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRM23&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRM23&size_weight=0.5&count_weight=0.5)
