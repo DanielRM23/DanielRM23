@@ -28,12 +28,14 @@ Estadísticas de GitHub
     <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <br/>
         <div align="center">
-            <img src="https://skillicons.dev/icons?i=linux,bash,html,vscode,github,git,latex" />
+            <img src="https://skillicons.dev/icons?i=linux,bash,html,vscode,github,git,latex" style="pointer-events: none;" />
             <span>&nbsp;</span> <!-- Espacio en blanco -->
-            <img src="https://skillicons.dev/icons?i=python,julia,java" /><br>
+            <img src="https://skillicons.dev/icons?i=python,julia,java" style="pointer-events: none;" /><br>
         </div>
     <br/>
 <hr/>
 
-<!-- Lenguajes que se han utilizado -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRM23&hide_progress=true)
+<center>
+<!-- ### Lenguajes que se han utilizado -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRM23&hide_progress=true&theme=onedark)
+</center>
