@@ -25,14 +25,14 @@ Estadísticas de GitHub
 </h1>
 
 <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,bash,html,vscode,github,git,latex" style="pointer-events: none;" />
-    <span>&nbsp;</span> <!-- Espacio en blanco -->
-    <img src="https://skillicons.dev/icons?i=python,julia,java" style="pointer-events: none;" /><br>
-</div>
-<br/>
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+        <br/>
+            <div align="center">
+                <img src="https://skillicons.dev/icons?i=linux,bash,html,vscode,github,git,latex" style="pointer-events: none;" />
+                <br/>
+                <img src="https://skillicons.dev/icons?i=python,julia,java" style="pointer-events: none;" /><br>
+            </div>
+        
 <hr/>
 
 
