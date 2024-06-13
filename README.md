@@ -24,9 +24,9 @@ Estadísticas de GitHub
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Rojo!;&color=F7D038" />
 </h1>
 
-<h3 align="center">
+<h4 align="center">
     I majored in Physics and Mathematics at UNAM, focusing on Computer Science and programming, 💻 ⚛️ ∫
-</h3>
+</h4>
 
 <hr/>
     <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
