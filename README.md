@@ -45,4 +45,4 @@ Estadísticas de GitHub
 </div>
 
 
-![snake gif](https://github.com/DanielRM23/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DanielRM23/DanielRM23/blob/output/github-contribution-grid-snake.gif)
