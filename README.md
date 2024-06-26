@@ -47,4 +47,5 @@ Estadísticas de GitHub
 
 
 
-![snake gif](https://github.com/DanielRM23/DanielRM23/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DanielRM23/DanielRM23/raw/output/github-contribution-grid-snake.gif)
+
