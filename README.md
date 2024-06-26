@@ -44,3 +44,5 @@ Estadísticas de GitHub
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRM23&hide=HTML&layout=compact&theme=onedark&hide_progress=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
