@@ -27,7 +27,7 @@ Estadísticas de GitHub
 <h3 align="center">
     Physics graduate from UNAM.<br>
     Near completion of a Mathematics degree.<br>
-    Currently pursuing a Master's in Engineering and Communication Sciences. 💻 ⚛️ ∫
+    Currently pursuing a Master's in Engineering and Computer Science. 💻 ⚛️ ∫
 </h3>
 
 
