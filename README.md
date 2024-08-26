@@ -25,8 +25,9 @@ Estadísticas de GitHub
 </h1>
 
 <h3 align="center">
-    Physics graduate from UNAM, with a strong focus on Computer Science and programming.<br>
-    Near completion of a Mathematics degree. Currently pursuing a Master's in Engineering and Communication Sciences. 💻 ⚛️ ∫
+    Physics graduate from UNAM.<br>
+    Near completion of a Mathematics degree.<br>
+    Currently pursuing a Master's in Engineering and Communication Sciences. 💻 ⚛️ ∫
 </h3>
 
 
