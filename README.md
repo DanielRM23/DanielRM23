@@ -25,9 +25,10 @@ Estadísticas de GitHub
 </h1>
 
 <h3 align="center">
-    I majored in Physics and Mathematics at UNAM, focusing on Computer Science and programming, 💻 ⚛️ ∫
-    I am currently studying a master's degree in engineering and communication sciences.
+    Physics graduate from UNAM, with a strong focus on Computer Science and programming.<br>
+    Near completion of a Mathematics degree. Currently pursuing a Master's in Engineering and Communication Sciences. 💻 ⚛️ ∫
 </h3>
+
 
 <hr/>
     <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
