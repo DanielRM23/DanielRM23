@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
+<!--
 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRM23&show_icons=true&theme=radical) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRM23&show_icons=true&theme=radical)
 -->
 
 <h1 align="center">
@@ -30,19 +30,29 @@ Estadísticas de GitHub
     Currently pursuing a Master's in Engineering and Computer Science. 💻 ⚛️ ∫
 </h3>
 
-
 <hr/>
     <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
         <br/>
             <div align="center">
-                <img src="https://skillicons.dev/icons?i=linux,bash,html,vscode,github,git,latex" style="pointer-events: none;" />
+                <img src="https://skillicons.dev/icons?i=linux,bash,vscode,github,git,latex" style="pointer-events: none;" />
                 <br/>
                 <img src="https://skillicons.dev/icons?i=python,julia,java" style="pointer-events: none;" /><br>
             </div>
         
 <hr/>
 
-
 <div align=center>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRM23&hide=HTML&layout=compact&theme=onedark&hide_progress=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<!--
+snake
+-->
+
+###
+
+<img src="https://raw.githubusercontent.com/DanielRM23/DanielRM23/output/snake.svg" alt="Snake animation" />
+
+###
+
+> > > > > > > d3c0146 (Actualizo README)
